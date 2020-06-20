@@ -9,4 +9,7 @@ CosminTest
 DeepSideDejays
 PamPamPam
 Lino Golden
+CasaBella
+Bella Ciao
+And so far
 
